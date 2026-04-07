@@ -42,6 +42,6 @@ Start the application:
 bash
 npm run start
 should run the electron start script and the app should be running
-
+ 
 
 
